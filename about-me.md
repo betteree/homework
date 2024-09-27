@@ -1,6 +1,6 @@
 # <span style="background-color:#fff5b1; color: black">Hello I'm naeun !</span>
 
-![나](/assets/me.jpg)
+![나](/assets/md/me.jpg)
 
 **이름**: <span style="color:yellow;"> _김나은_ </span>
 
@@ -8,26 +8,35 @@
 
 **직업**: <span style="color:green;"> _(곧) 프론트엔드 개발자_ </span>
 
+> **좌우명**  
+> <span style="color:red;"> **_남과 비교하지 않고 줏대있게 살자!_** </span>
+
+## 목표
+
+1. HTML/CSS , Javascript , React 마스터하기 !!!
+
+2. 주 5회 이상 운동하기
+
+3. 6개월간 지치지 않고 재밌게 프론트엔드 스쿨 수료하기
+
 ## 나의 취미
 
-- 여행
+- **여행**
+
   - 호주 🦘
   - 필리핀 🌴
   - 태국 🐘
   - 중국 👲
-- 운동
+
+- **운동**
+
   - 헬스 🏋
   - 수영 🏊‍♀
   - 점핑 🐇
   - 런닝 🏃‍♀
-- 맛집 찾기
-  - 리조또
+
+- **맛집 찾기**
   - 파스타
   - 돈까스
   - 초밥
-
-## 목표
-
-1. 새로운 언어 배우기
-2. 건강한 생활 유지하기
-3. 직업적인 성장
+  - 국밥
