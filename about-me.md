@@ -2,6 +2,16 @@
 
 ![나](/assets/md/me.jpg)
 
+<div>
+        <a href="mailto::kkkne1017@naver.com">
+                <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+        </a>
+        <a href="https://betteree.tistory.com/">
+                <img src="https://img.shields.io/badge/Tistroy-000000?style=flat&logo=tistory&logoColor=white" />
+        </a>
+
+</div>
+
 **이름**: <span style="color:yellow;"> _김나은_ </span>
 
 **생일**: <span style="color:orange;"> _2002/10/17_ </span>
@@ -21,22 +31,34 @@
 
 ## 나의 취미
 
-- **여행**
+<details>
+<summary>여행</summary>
+</summary>
 
-  - 호주 🦘
-  - 필리핀 🌴
-  - 태국 🐘
-  - 중국 👲
+- 호주 🦘
 
-- **운동**
+- 필리핀 🌴
+- 태국 🐘
+- 중국 👲
+</details>
 
-  - 헬스 🏋
-  - 수영 🏊‍♀
-  - 점핑 🐇
-  - 런닝 🏃‍♀
+<details>
+<summary>맛집 찾기</summary>
+</summary>
 
-- **맛집 찾기**
-  - 파스타
-  - 돈까스
-  - 초밥
-  - 국밥
+- 파스타
+
+- 돈까스
+- 초밥
+- 국밥
+</details>
+<details>
+<summary>운동</summary>
+</summary>
+
+- 헬스 🏋
+
+- 수영 🏊‍♀
+- 점핑 🐇
+- 런닝 🏃‍♀
+</details>
