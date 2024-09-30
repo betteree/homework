@@ -5,7 +5,7 @@
 <div style="border: 2px solid #ccc; padding: 10px;">
 
 **이름**: <span style="color:yellow;"> **_김나은_** </span>  
-**생일**: <span style="color:orange;"> **_2002/10/17_** </span>  
+**생일**: <span style="color:orange;"> **_xxxx/10/17_** </span>  
 **국적**: <span style="color:pink;"> **대한민국** </span>
 
 </div>
