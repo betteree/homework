@@ -1,6 +1,6 @@
 # <span style="background-color:#fff5b1; color: black">Hello I'm naeun !</span>
 
-![나](/assets/md/me.jpg)
+![나](/assets/me.jpg)
 
 <div style="border: 2px solid #ccc; padding: 10px;">
 
