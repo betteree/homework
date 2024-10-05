@@ -7,14 +7,18 @@ body {
   height: 100vh;
 }
 
-.ava1,
+.ava1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px 0;
+}
+
 .ava2 {
-  width: 64px;
-  height: 64px;
-  border-radius: 50%;
-  object-fit: cover;
-  float: left;
-  margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0 20px;
 }
 
 .img-container {
@@ -22,8 +26,7 @@ body {
   margin: 10px;
 }
 
-.ava1 img,
-.ava2 img {
+.img-container img {
   width: 64px;
   height: 64px;
   border-radius: 50%;
@@ -40,9 +43,9 @@ body {
 }
 
 .gray {
-  background-color: gray;
+  background-color: #dbdbdb;
 }
 
 .green {
-  background-color: green;
+  background-color: #4cfe88;
 }
