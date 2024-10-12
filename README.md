@@ -4,6 +4,6 @@
 
 [About me](https://github.com/betteree/homework/blob/main/md/about-me.md)
 
-[avatars](https://betteree.github.io/homework/avatars/avatars.html)
+[avatars](https://github.com/betteree/homework/blob/main/md/avatars.md)
 
-[login](https://betteree.github.io/homework/blob/main/md/login.md)
+[login](https://github.com/betteree/homework/blob/main/md/login.md)
