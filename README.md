@@ -6,4 +6,4 @@
 
 [avatars](https://betteree.github.io/homework/avatars/avatars.html)
 
-[login](https://betteree.github.io/homework/md/login.md)
+[login](https://betteree.github.io/homework/blob/main/md/login.md)
