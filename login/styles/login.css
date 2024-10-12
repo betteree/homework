@@ -1,0 +1,65 @@
+/* CSS를 활용하여 레이아웃 및 스타일링을 완성해주세요 */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+.login-bar {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-content: center;
+  font-size: 16px;
+}
+
+.logo-box {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 320px;
+}
+
+.login {
+  width: 100%;
+  .login-pw {
+    display: flex;
+    flex-direction: column;
+    /* width: 100%; */
+
+    .login-input {
+      min-width: 14px;
+      height: 45px;
+      border: 1px solid #dadada;
+      background-color: #fff;
+      margin: 5px;
+      &:focus {
+        border-color: #03cf5d;
+        background-color: #e9f0fd;
+        outline: none;
+      }
+    }
+  }
+
+  .submit {
+    width: 100%;
+    height: 45px;
+    color: #fff;
+    background-color: #03cf5d;
+    border: 0;
+    margin-top: 20px;
+  }
+}
+
+.check-box {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
