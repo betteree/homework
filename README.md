@@ -4,4 +4,4 @@
 
 [About me](https://github.com/betteree/homework/blob/main/md/about-me.md)
 
-[avatars](https://betteree.github.io/homework/md/avatars.md)
+[avatars](https://betteree.github.io/homework/avatars/avatars.html)
