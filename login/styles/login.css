@@ -1,4 +1,10 @@
 /* CSS를 활용하여 레이아웃 및 스타일링을 완성해주세요 */
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 100px;
+}
 .sr-only {
   position: absolute;
   width: 1px;
@@ -39,7 +45,7 @@
       height: 45px;
       border: 1px solid #dadada;
       background-color: #fff;
-      margin: 5px;
+      margin-top: 5px;
       &:focus {
         border-color: #03cf5d;
         background-color: #e9f0fd;
@@ -58,8 +64,66 @@
   }
 }
 
-.check-box {
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
+.ip-check {
+  display: none;
+}
+
+.block-form {
+  margin-left: 20px;
+  margin-inline-start: 20px;
+  margin-right: 20px;
+  margin-inline-end: 20px;
+  .check-box {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+    .checked {
+      width: 24px;
+      height: 24px;
+      background-image: url("./../../assets/login/unchecked.svg");
+      background-size: contain;
+      background-repeat: no-repeat;
+      cursor: pointer;
+      &:focus {
+        background-image: url("./../../assets/login/checked.svg");
+      }
+    }
+
+    p {
+      padding-left: 5px;
+    }
+  }
+}
+
+@media (min-width: 768px) {
+  .block-form {
+    width: 100%; /* 블록 폼의 전체 너비를 100%로 설정 */
+    max-width: 500px;
+    margin: 0 auto;
+    .login {
+      display: flex;
+      justify-content: center;
+      flex-flow: row wrap;
+
+      .login-pw,
+      .submit {
+        width: 100%;
+      }
+    }
+
+    .check-box {
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      justify-content: space-between;
+      width: 100%;
+    }
+    .ip-check {
+      display: block;
+      margin-left: auto;
+      color: #121212;
+      font-size: 16px;
+    }
+  }
 }
