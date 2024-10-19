@@ -7,3 +7,5 @@
 [avatars](https://github.com/betteree/homework/blob/main/md/avatars.md)
 
 [login](https://github.com/betteree/homework/blob/main/md/login.md)
+
+[apple](https://github.com/betteree/homework/blob/main/md/apple.md)
